@@ -1,9 +1,3 @@
-/*================
- Template Name: DigiMark Digital Marketing and Agency HTML Template
- Description: All type of Digital Marketing with marketing and agency template.
- Version: 1.0
- Author: https://themeforest.net/user/themetags
-=======================*/
 
 // TABLE OF CONTENTS
 // 1. preloader
